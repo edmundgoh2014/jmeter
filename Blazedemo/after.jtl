@@ -1,0 +1,225 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1678269647023,1894,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,2999,43
+1678269650022,1894,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,382,0,43
+1678269650022,383,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,382,0,43
+1678269650406,1510,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,617,0,309
+1678269650406,325,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,253,0,0
+1678269650406,581,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,275,0,44
+1678269650406,881,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,294,0,49
+1678269650406,304,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,294,0,44
+1678269651917,1136,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290666,4976,1,1,null,0,3002,0
+1678269654917,1136,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290666,4976,1,1,https://blazedemo.com/reserve.php,332,0,0
+1678269654917,351,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7381,861,1,1,https://blazedemo.com/reserve.php,332,0,0
+1678269655269,568,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,306,0,0
+1678269655269,366,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,242,0,0
+1678269655269,529,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,250,0,0
+1678269655269,784,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,244,0,0
+1678269655269,242,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,242,0,0
+1678269656054,1087,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5023,1,1,null,0,2997,0
+1678269659049,1087,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5023,1,1,https://blazedemo.com/purchase.php,340,0,0
+1678269659049,351,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,908,1,1,https://blazedemo.com/purchase.php,340,0,0
+1678269659401,516,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,326,0,0
+1678269659401,464,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,291,0,0
+1678269659401,321,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,271,0,0
+1678269659401,735,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,271,0,0
+1678269659401,291,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,271,0,0
+1678269660138,1059,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,3007,0
+1678269663143,1059,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,362,0,0
+1678269663143,366,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,362,0,0
+1678269663511,473,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269663511,275,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,237,0,0
+1678269663511,275,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,238,0,0
+1678269663511,691,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,239,0,0
+1678269663511,250,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,242,0,0
+1678269664204,1121,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,2998,0
+1678269667201,1121,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,314,0,0
+1678269667201,318,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,314,0,0
+1678269667520,463,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,309,0,0
+1678269667520,316,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,252,0,0
+1678269667520,303,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,234,0,0
+1678269667520,802,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,242,0,0
+1678269667520,239,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,236,0,0
+1678269668323,924,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290658,4975,1,1,null,0,3006,0
+1678269671328,924,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290658,4975,1,1,https://blazedemo.com/reserve.php,445,0,0
+1678269671328,465,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7373,860,1,1,https://blazedemo.com/reserve.php,445,0,0
+1678269671794,458,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,306,0,0
+1678269671794,271,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,245,0,0
+1678269671794,284,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,241,0,0
+1678269671794,452,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,234,0,0
+1678269671794,250,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,245,0,0
+1678269672253,976,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5022,1,1,null,0,3012,0
+1678269675265,976,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5022,1,1,https://blazedemo.com/purchase.php,314,0,0
+1678269675265,320,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,907,1,1,https://blazedemo.com/purchase.php,314,0,0
+1678269675587,464,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,311,0,0
+1678269675587,279,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,240,0,0
+1678269675587,502,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,245,0,0
+1678269675587,654,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,238,0,0
+1678269675587,259,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,252,0,0
+1678269676242,1089,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,3002,0
+1678269679243,1089,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,425,0,0
+1678269679243,428,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,425,0,0
+1678269679672,460,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,306,0,0
+1678269679672,308,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,241,0,0
+1678269679672,328,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,241,0,0
+1678269679672,660,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,241,0,0
+1678269679672,241,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,238,0,0
+1678269680334,885,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,3015,0
+1678269683348,885,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,325,0,0
+1678269683348,326,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,325,0,0
+1678269683675,464,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,313,0,0
+1678269683675,470,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,258,0,0
+1678269683675,505,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,249,0,0
+1678269683675,558,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,244,0,0
+1678269683675,256,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,247,0,0
+1678269684234,1070,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290626,4971,1,1,null,0,3006,0
+1678269687240,1070,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290626,4971,1,1,https://blazedemo.com/reserve.php,472,0,0
+1678269687240,490,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7341,856,1,1,https://blazedemo.com/reserve.php,472,0,0
+1678269687731,458,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,307,0,0
+1678269687731,275,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,237,0,0
+1678269687731,419,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,241,0,0
+1678269687731,579,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,236,0,0
+1678269687731,261,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,254,0,0
+1678269688310,932,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5018,1,1,null,0,3008,0
+1678269691317,932,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5018,1,1,https://blazedemo.com/purchase.php,385,0,0
+1678269691317,400,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,903,1,1,https://blazedemo.com/purchase.php,385,0,0
+1678269691718,460,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,306,0,0
+1678269691719,268,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,236,0,0
+1678269691718,339,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,243,0,0
+1678269691719,530,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,235,0,0
+1678269691718,240,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,237,0,0
+1678269692250,1052,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,2989,0
+1678269695238,1052,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,344,0,0
+1678269695238,353,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,344,0,0
+1678269695593,461,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,309,0,0
+1678269695593,305,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,239,0,0
+1678269695593,279,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,241,0,0
+1678269695593,697,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,276,0,0
+1678269695593,239,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,237,0,0
+1678269696291,1015,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,3012,0
+1678269699303,1015,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,342,0,0
+1678269699303,352,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,342,0,0
+1678269699656,459,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269699656,305,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,238,0,0
+1678269699656,301,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,250,0,0
+1678269699656,662,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,243,0,0
+1678269699656,251,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,243,0,0
+1678269700318,893,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290642,4973,1,1,null,0,2994,0
+1678269703312,893,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290642,4973,1,1,https://blazedemo.com/reserve.php,317,0,0
+1678269703312,328,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7357,858,1,1,https://blazedemo.com/reserve.php,317,0,0
+1678269703642,472,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,321,0,0
+1678269703642,289,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,248,0,0
+1678269703642,345,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,250,0,0
+1678269703642,563,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,253,0,0
+1678269703642,254,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,249,0,0
+1678269704205,1077,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5020,1,1,null,0,3010,0
+1678269707214,1077,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5020,1,1,https://blazedemo.com/purchase.php,325,0,0
+1678269707214,344,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,905,1,1,https://blazedemo.com/purchase.php,325,0,0
+1678269707560,462,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,311,0,0
+1678269707559,277,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,238,0,0
+1678269707559,293,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,239,0,0
+1678269707559,732,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,245,0,0
+1678269707559,245,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,241,0,0
+1678269708292,2208,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,2998,112
+1678269711289,2208,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,469,0,112
+1678269711289,516,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,469,0,112
+1678269711806,1691,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,830,0,522
+1678269711806,383,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,346,0,97
+1678269711806,595,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,346,0,95
+1678269711806,836,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,254,0,0
+1678269711806,346,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,346,0,85
+1678269713498,988,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,3003,0
+1678269716499,988,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,321,0,0
+1678269716499,329,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,321,0,0
+1678269716828,566,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,309,0,0
+1678269716828,301,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,238,0,0
+1678269716828,405,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,245,0,0
+1678269716828,659,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,240,0,0
+1678269716828,254,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,243,0,0
+1678269717489,1132,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290666,4976,1,1,null,0,3002,0
+1678269720490,1132,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290666,4976,1,1,https://blazedemo.com/reserve.php,349,0,0
+1678269720490,374,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7381,861,1,1,https://blazedemo.com/reserve.php,349,0,0
+1678269720864,494,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269720864,449,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,239,0,0
+1678269720864,442,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,239,0,0
+1678269720864,758,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,241,0,0
+1678269720864,252,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,243,0,0
+1678269721623,991,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5023,1,1,null,0,2999,0
+1678269724621,991,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5023,1,1,https://blazedemo.com/purchase.php,371,0,0
+1678269724621,393,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,908,1,1,https://blazedemo.com/purchase.php,371,0,0
+1678269725016,474,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269725016,306,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,235,0,0
+1678269725016,502,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,246,0,0
+1678269725016,596,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,239,0,0
+1678269725016,242,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,239,0,0
+1678269725613,1059,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,3002,0
+1678269728614,1059,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,335,0,0
+1678269728614,335,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,335,0,0
+1678269728951,468,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,322,0,0
+1678269728951,446,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,295,0,0
+1678269728951,508,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,295,0,0
+1678269728951,722,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,295,0,0
+1678269728951,295,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,295,0,0
+1678269729675,995,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,3006,0
+1678269732680,995,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,391,0,0
+1678269732680,400,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,391,0,0
+1678269733081,461,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,330,0,0
+1678269733081,273,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,242,0,0
+1678269733081,277,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,235,0,0
+1678269733081,594,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,247,0,0
+1678269733081,235,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,234,0,0
+1678269733676,1287,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290626,4971,1,1,null,0,3002,0
+1678269736677,1287,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290626,4971,1,1,https://blazedemo.com/reserve.php,390,0,0
+1678269736677,447,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7341,856,1,1,https://blazedemo.com/reserve.php,390,0,0
+1678269737124,460,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,309,0,0
+1678269737125,440,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,239,0,0
+1678269737125,408,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,243,0,0
+1678269737125,839,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,241,0,0
+1678269737125,239,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,236,0,0
+1678269737965,1213,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5018,1,1,null,0,3002,0
+1678269740966,1213,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5018,1,1,https://blazedemo.com/purchase.php,345,0,0
+1678269740966,368,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,903,1,1,https://blazedemo.com/purchase.php,345,0,0
+1678269741336,459,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269741336,309,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,242,0,0
+1678269741336,295,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,237,0,0
+1678269741336,843,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,245,0,0
+1678269741336,258,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,254,0,0
+1678269742180,1104,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,3020,0
+1678269745200,1104,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,358,0,0
+1678269745200,360,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,358,0,0
+1678269745561,459,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,310,0,0
+1678269745561,273,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,236,0,0
+1678269745561,369,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,236,0,0
+1678269745561,743,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,240,0,0
+1678269745561,232,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,232,0,0
+1678269746305,1001,Landing Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,288042,4616,1,1,null,0,2997,0
+1678269749302,1001,https://blazedemo.com/,200,OK,Thread Group 1-1,text,true,,288042,4616,1,1,https://blazedemo.com/,330,0,0
+1678269749302,335,https://blazedemo.com/-0,200,OK,Thread Group 1-1,text,true,,4757,746,1,1,https://blazedemo.com/,330,0,0
+1678269749639,485,https://blazedemo.com/-1,200,OK,Thread Group 1-1,text,true,,83982,788,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,309,0,0
+1678269749639,450,https://blazedemo.com/-2,200,OK,Thread Group 1-1,text,true,,28981,769,1,1,https://blazedemo.com/assets/bootstrap.min.js,241,0,0
+1678269749639,488,https://blazedemo.com/-3,200,OK,Thread Group 1-1,text,true,,39488,771,1,1,https://blazedemo.com/assets/bootstrap-table.js,242,0,0
+1678269749639,664,https://blazedemo.com/-4,200,OK,Thread Group 1-1,text,true,,126767,770,1,1,https://blazedemo.com/assets/bootstrap.min.css,236,0,0
+1678269749639,244,https://blazedemo.com/-5,200,OK,Thread Group 1-1,text,true,,4067,772,1,1,https://blazedemo.com/assets/bootstrap-table.css,236,0,0
+1678269750303,991,Choose Departure City & Destination City > Click [Find Flights],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290642,4973,1,1,null,0,3002,0
+1678269753304,991,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,290642,4973,1,1,https://blazedemo.com/reserve.php,383,0,0
+1678269753304,385,https://blazedemo.com/reserve.php-0,200,OK,Thread Group 1-1,text,true,,7357,858,1,1,https://blazedemo.com/reserve.php,383,0,0
+1678269753690,460,https://blazedemo.com/reserve.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269753690,266,https://blazedemo.com/reserve.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,235,0,0
+1678269753690,496,https://blazedemo.com/reserve.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,240,0,0
+1678269753690,605,https://blazedemo.com/reserve.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,237,0,0
+1678269753690,266,https://blazedemo.com/reserve.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,240,0,0
+1678269754296,1204,Choose flight No 43,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,290000,5020,1,1,null,0,3002,0
+1678269757297,1204,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,290000,5020,1,1,https://blazedemo.com/purchase.php,336,0,0
+1678269757297,376,https://blazedemo.com/purchase.php-0,200,OK,Thread Group 1-1,text,true,,6715,905,1,1,https://blazedemo.com/purchase.php,336,0,0
+1678269757675,462,https://blazedemo.com/purchase.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,312,0,0
+1678269757675,273,https://blazedemo.com/purchase.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,236,0,0
+1678269757675,342,https://blazedemo.com/purchase.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,238,0,0
+1678269757675,826,https://blazedemo.com/purchase.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,245,0,0
+1678269757675,245,https://blazedemo.com/purchase.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,239,0,0
+1678269758502,928,Input the required details > Click [Purchase Flight],200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,289065,5124,1,1,null,0,3000,0
+1678269761502,928,https://blazedemo.com/confirmation.php,200,OK,Thread Group 1-1,text,true,,289065,5124,1,1,https://blazedemo.com/confirmation.php,334,0,0
+1678269761502,338,https://blazedemo.com/confirmation.php-0,200,OK,Thread Group 1-1,text,true,,5780,1009,1,1,https://blazedemo.com/confirmation.php,334,0,0
+1678269761840,460,https://blazedemo.com/confirmation.php-1,200,OK,Thread Group 1-1,text,true,,83982,837,1,1,http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js,308,0,0
+1678269761840,299,https://blazedemo.com/confirmation.php-2,200,OK,Thread Group 1-1,text,true,,28981,818,1,1,https://blazedemo.com/assets/bootstrap.min.js,240,0,0
+1678269761840,301,https://blazedemo.com/confirmation.php-3,200,OK,Thread Group 1-1,text,true,,39488,820,1,1,https://blazedemo.com/assets/bootstrap-table.js,235,0,0
+1678269761840,590,https://blazedemo.com/confirmation.php-4,200,OK,Thread Group 1-1,text,true,,126767,819,1,1,https://blazedemo.com/assets/bootstrap.min.css,236,0,0
+1678269761840,244,https://blazedemo.com/confirmation.php-5,200,OK,Thread Group 1-1,text,true,,4067,821,1,1,https://blazedemo.com/assets/bootstrap-table.css,237,0,0
