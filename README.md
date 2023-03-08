@@ -1,5 +1,5 @@
 # JMeter
-Recording performance test script using blazemeter plugin on Chrome browser
+Recording performance test script using blazemeter plugin on Chrome browser.
 
 This repo is a performance testing project to test the https://blazedemo.com/index.php website by reserving and making payment to a flight. The steps is as below:
 
